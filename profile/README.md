@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Platform Hub](https://img.shields.io/badge/_ACCESS_THE_PLATFORM_HUB-Notes_Standard_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
+[![Access the Platform Hub](https://img.shields.io/badge/_ACCESS_THE_PLATFORM_HUB-Notes_Standard_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/standard-notes)
 </div>
 
 ## What is this Notes Standard Platform Integration?
